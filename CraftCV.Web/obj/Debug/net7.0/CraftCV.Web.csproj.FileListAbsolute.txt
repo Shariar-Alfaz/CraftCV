@@ -83,3 +83,14 @@ E:\projects\CraftCV\CraftCV.Web\obj\Debug\net7.0\refint\CraftCV.Web.dll
 E:\projects\CraftCV\CraftCV.Web\obj\Debug\net7.0\CraftCV.Web.pdb
 E:\projects\CraftCV\CraftCV.Web\obj\Debug\net7.0\CraftCV.Web.genruntimeconfig.cache
 E:\projects\CraftCV\CraftCV.Web\obj\Debug\net7.0\ref\CraftCV.Web.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Autofac.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.AspNetCore.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+E:\projects\CraftCV\CraftCV.Web\bin\Debug\net7.0\Serilog.Sinks.File.dll
