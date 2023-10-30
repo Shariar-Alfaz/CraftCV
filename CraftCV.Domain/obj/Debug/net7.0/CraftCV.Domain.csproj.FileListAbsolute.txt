@@ -1,0 +1,11 @@
+E:\projects\CraftCV\CraftCV.Domain\bin\Debug\net7.0\CraftCV.Domain.deps.json
+E:\projects\CraftCV\CraftCV.Domain\bin\Debug\net7.0\CraftCV.Domain.dll
+E:\projects\CraftCV\CraftCV.Domain\bin\Debug\net7.0\CraftCV.Domain.pdb
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.AssemblyInfoInputs.cache
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.AssemblyInfo.cs
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.csproj.CoreCompileInputs.cache
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.dll
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\refint\CraftCV.Domain.dll
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\CraftCV.Domain.pdb
+E:\projects\CraftCV\CraftCV.Domain\obj\Debug\net7.0\ref\CraftCV.Domain.dll
