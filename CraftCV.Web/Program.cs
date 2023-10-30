@@ -2,8 +2,6 @@ using Autofac.Extensions.DependencyInjection;
 using Autofac;
 using CraftCV.Web.Data;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc.ApplicationModels;
-using Microsoft.AspNetCore.Mvc.TagHelpers;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Serilog.Events;
